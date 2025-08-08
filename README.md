@@ -26,4 +26,12 @@ However, due to the analytics manager's unavailability, the task has been assign
 ## Data Model
 ![Data Model](https://github.com/TusharR3345/GoodCabs-key-Insights/blob/main/Images/Data%20Model.png)
 
+## Home Page
+![Home Page](https://github.com/TusharR3345/GoodCabs-key-Insights/blob/main/Images/Home%20Page.png)
+
+## Overview 
+![Overview](https://github.com/TusharR3345/GoodCabs-key-Insights/blob/main/Images/Overview.png)
+
+## Target & Analysis
+![Target & Analysis](https://github.com/TusharR3345/GoodCabs-key-Insights/blob/main/Images/Targets%20%26%20Ratings.png) 
 
