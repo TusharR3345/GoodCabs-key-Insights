@@ -16,3 +16,4 @@ However, due to the analytics manager's unavailability, the task has been assign
 - **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
 
 ## Data Model
+![Data Model](https://github.com/TusharR3345/GoodCabs-key-Insights/blob/main/Images/Data%20Model.png)
