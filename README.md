@@ -35,3 +35,12 @@ However, due to the analytics manager's unavailability, the task has been assign
 ## Target & Analysis
 ![Target & Analysis](https://github.com/TusharR3345/GoodCabs-key-Insights/blob/main/Images/Targets%20%26%20Ratings.png) 
 
+## City Analysis
+![City Analysis](https://github.com/TusharR3345/GoodCabs-key-Insights/blob/main/Images/City%20Analysis.png)
+
+
+## Key Insights
+ * Jaipur city had major contribution in total fare collected i.e. $37M, while Coimbatore, Vadodra, Mysore had the lowest around $3M to $4M.
+ * 56% of total fare was collected during weekend and 44% during weekdays.
+ * Surat, Lucknow, Indore have the high repeat passenger rate of 42.6%, 37%, and 32% respectively, whereas Jaipur and Mysore are cities with vey low repeate passenger rate belove 20%.
+ * Mysore has shown a steady growth in total trips over months, whereas most of the other cities have shown decrease in total trips after April month.
