@@ -8,6 +8,14 @@ The Chief of Operations needs immediate insights into key performance metrics, i
 
 However, due to the analytics manager's unavailability, the task has been assigned to me, to analyze these metrics and deliver actionable insights.
 
+## 📌Project Objective:
+ * Understand service usage patterns across cities
+ * Identify peak ride hours and customer preferences
+ * Track new vs. repeat passenger behavior
+ * Compare city performance against predefined targets
+ * Enable data-driven decision making for operations and marketing
+
+
 ## 👩‍💻 Tech Stack
 
 - **Data Visualization**: Power BI  
@@ -17,3 +25,5 @@ However, due to the analytics manager's unavailability, the task has been assign
 
 ## Data Model
 ![Data Model](https://github.com/TusharR3345/GoodCabs-key-Insights/blob/main/Images/Data%20Model.png)
+
+
