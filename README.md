@@ -7,3 +7,10 @@ Goodcabs, a cab service company, operates in 10 tier-2 cities in India and suppo
 The Chief of Operations needs immediate insights into key performance metrics, including trip volume, passenger satisfaction, repeat passenger rate, trip distribution, and the balance between new and repeat passengers. 
 
 However, due to the analytics manager's unavailability, the task has been assigned to me, to analyze these metrics and deliver actionable insights.
+
+## 👩‍💻 Tech Stack
+
+- **Data Visualization**: Power BI  
+- **Data Analysis**: SQL  
+- **Data Modeling**: Snowflake schema  
+- **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
