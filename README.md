@@ -14,3 +14,5 @@ However, due to the analytics manager's unavailability, the task has been assign
 - **Data Analysis**: SQL  
 - **Data Modeling**: Snowflake schema  
 - **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
+
+## Data Model
